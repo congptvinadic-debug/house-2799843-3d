@@ -1,0 +1,681 @@
+{
+ "rooms": [
+  {
+   "level": "L0",
+   "name": "Covered Parking 2 Cars",
+   "area": 39.6,
+   "size": [
+    6.28,
+    6.3
+   ],
+   "rect": [
+    11.3,
+    3.0,
+    17.78,
+    9.5
+   ],
+   "rl": 0.3
+  },
+  {
+   "level": "L0",
+   "name": "Storage / Car Repair",
+   "area": 19.4,
+   "size": [
+    5.1,
+    3.8
+   ],
+   "rect": [
+    3.0,
+    3.0,
+    8.3,
+    7.0
+   ],
+   "rl": 0.3
+  },
+  {
+   "level": "L0",
+   "name": "Electrical / IT CCTV-NVR",
+   "area": 11.7,
+   "size": [
+    5.1,
+    2.3
+   ],
+   "rect": [
+    3.0,
+    7.0,
+    8.3,
+    9.5
+   ],
+   "rl": 0.3
+  },
+  {
+   "level": "L0",
+   "name": "Stair Lobby",
+   "area": 17.6,
+   "size": [
+    2.8,
+    6.3
+   ],
+   "rect": [
+    8.3,
+    3.0,
+    11.3,
+    9.5
+   ],
+   "rl": 0.3
+  },
+  {
+   "level": "L1",
+   "name": "Guest Bedroom",
+   "area": 17.6,
+   "size": [
+    4.1,
+    4.3
+   ],
+   "rect": [
+    1.0,
+    5.0,
+    5.3,
+    9.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Guest Lobby",
+   "area": 3.6,
+   "size": [
+    2.8,
+    1.3
+   ],
+   "rect": [
+    5.3,
+    5.0,
+    8.3,
+    6.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Guest Bath",
+   "area": 3.6,
+   "size": [
+    1.3,
+    2.8
+   ],
+   "rect": [
+    5.3,
+    6.5,
+    6.8,
+    9.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Common Toilet",
+   "area": 3.6,
+   "size": [
+    1.3,
+    2.8
+   ],
+   "rect": [
+    6.8,
+    6.5,
+    8.3,
+    9.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Entrance Hall + Stair",
+   "area": 12.0,
+   "size": [
+    2.8,
+    4.3
+   ],
+   "rect": [
+    8.3,
+    5.0,
+    11.3,
+    9.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Living Room",
+   "area": 36.4,
+   "size": [
+    6.28,
+    5.8
+   ],
+   "rect": [
+    11.3,
+    5.0,
+    17.78,
+    11.0
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Laundry",
+   "area": 11.0,
+   "size": [
+    2.3,
+    4.8
+   ],
+   "rect": [
+    1.0,
+    9.5,
+    3.5,
+    14.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Storage / Linen",
+   "area": 7.7,
+   "size": [
+    1.6,
+    4.8
+   ],
+   "rect": [
+    3.5,
+    9.5,
+    5.3,
+    14.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Kitchen (Island)",
+   "area": 27.8,
+   "size": [
+    5.8,
+    4.8
+   ],
+   "rect": [
+    5.3,
+    9.5,
+    11.3,
+    14.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Pantry",
+   "area": 5.0,
+   "size": [
+    2.8,
+    1.8
+   ],
+   "rect": [
+    8.3,
+    9.5,
+    11.3,
+    11.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Dining Room",
+   "area": 23.9,
+   "size": [
+    6.28,
+    3.8
+   ],
+   "rect": [
+    11.3,
+    11.0,
+    17.78,
+    15.0
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Entertainment Room",
+   "area": 27.0,
+   "size": [
+    7.1,
+    3.8
+   ],
+   "rect": [
+    1.0,
+    14.5,
+    8.3,
+    18.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Breakfast Nook",
+   "area": 10.6,
+   "size": [
+    2.8,
+    3.8
+   ],
+   "rect": [
+    8.3,
+    14.5,
+    11.3,
+    18.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L1",
+   "name": "Covered Veranda",
+   "area": 20.7,
+   "size": [
+    6.28,
+    3.3
+   ],
+   "rect": [
+    11.3,
+    15.0,
+    17.78,
+    18.5
+   ],
+   "rl": 4.8
+  },
+  {
+   "level": "L2",
+   "name": "Master Bedroom 2",
+   "area": 29.3,
+   "size": [
+    6.1,
+    4.8
+   ],
+   "rect": [
+    1.0,
+    5.0,
+    7.3,
+    10.0
+   ],
+   "rl": 8.4
+  },
+  {
+   "level": "L2",
+   "name": "Master Bedroom 1",
+   "area": 30.1,
+   "size": [
+    6.28,
+    4.8
+   ],
+   "rect": [
+    11.3,
+    5.0,
+    17.78,
+    10.0
+   ],
+   "rl": 8.4
+  },
+  {
+   "level": "L2",
+   "name": "Upper Hall",
+   "area": 16.3,
+   "size": [
+    3.8,
+    4.3
+   ],
+   "rect": [
+    7.3,
+    5.0,
+    11.3,
+    9.5
+   ],
+   "rl": 8.4
+  },
+  {
+   "level": "L2",
+   "name": "Family Lounge / Study",
+   "area": 18.2,
+   "size": [
+    3.8,
+    4.8
+   ],
+   "rect": [
+    7.3,
+    9.5,
+    11.3,
+    14.5
+   ],
+   "rl": 8.4
+  },
+  {
+   "level": "L2",
+   "name": "WIC 1",
+   "area": 12.0,
+   "size": [
+    2.8,
+    4.3
+   ],
+   "rect": [
+    11.3,
+    10.0,
+    14.3,
+    14.5
+   ],
+   "rl": 8.4
+  },
+  {
+   "level": "L2",
+   "name": "WC (suite 1)",
+   "area": 2.3,
+   "size": [
+    1.3,
+    1.8
+   ],
+   "rect": [
+    14.3,
+    10.0,
+    15.8,
+    12.0
+   ],
+   "rl": 8.4
+  },
+  {
+   "level": "L2",
+   "name": "Shower (suite 1)",
+   "area": 3.2,
+   "size": [
+    1.78,
+    1.8
+   ],
+   "rect": [
+    15.8,
+    10.0,
+    17.78,
+    12.0
+   ],
+   "rl": 8.4
+  },
+  {
+   "level": "L2",
+   "name": "Vanity x2 (suite 1)",
+   "area": 7.5,
+   "size": [
+    3.28,
+    2.3
+   ],
+   "rect": [
+    14.3,
+    12.0,
+    17.78,
+    14.5
+   ],
+   "rl": 8.4
+  },
+  {
+   "level": "L2",
+   "name": "WIC 2",
+   "area": 12.0,
+   "size": [
+    2.8,
+    4.3
+   ],
+   "rect": [
+    4.3,
+    10.0,
+    7.3,
+    14.5
+   ],
+   "rl": 8.4
+  },
+  {
+   "level": "L2",
+   "name": "WC (suite 2)",
+   "area": 2.3,
+   "size": [
+    1.3,
+    1.8
+   ],
+   "rect": [
+    1.0,
+    10.0,
+    2.5,
+    12.0
+   ],
+   "rl": 8.4
+  },
+  {
+   "level": "L2",
+   "name": "Shower (suite 2)",
+   "area": 2.9,
+   "size": [
+    1.6,
+    1.8
+   ],
+   "rect": [
+    2.5,
+    10.0,
+    4.3,
+    12.0
+   ],
+   "rl": 8.4
+  },
+  {
+   "level": "L2",
+   "name": "Vanity x2 (suite 2)",
+   "area": 7.1,
+   "size": [
+    3.1,
+    2.3
+   ],
+   "rect": [
+    1.0,
+    12.0,
+    4.3,
+    14.5
+   ],
+   "rl": 8.4
+  }
+ ],
+ "meta": {
+  "levels": {
+   "road": 0.0,
+   "L0": 0.3,
+   "L1": 4.8,
+   "L2": 8.4,
+   "roof": 12.0,
+   "parapet": 12.9,
+   "grade": 5.0
+  },
+  "envelope": [
+   1.0,
+   5.0,
+   17.78,
+   18.5
+  ],
+  "plot": [
+   0,
+   0,
+   18.78,
+   22.0
+  ],
+  "sec_b_y": 12.5,
+  "grid_x": [
+   [
+    "1",
+    1.0
+   ],
+   [
+    "2",
+    5.3
+   ],
+   [
+    "3",
+    8.3
+   ],
+   [
+    "4",
+    11.3
+   ],
+   [
+    "5",
+    17.78
+   ]
+  ],
+  "grid_y": [
+   [
+    "A",
+    3.0
+   ],
+   [
+    "B",
+    5.0
+   ],
+   [
+    "C",
+    9.5
+   ],
+   [
+    "D",
+    14.5
+   ],
+   [
+    "E",
+    18.5
+   ]
+  ],
+  "garage": [
+   3.0,
+   3.0,
+   17.78,
+   9.5
+  ],
+  "outdoor_kitchen": [
+   9.5,
+   19.5,
+   16.5,
+   21.75
+  ],
+  "driveway": [
+   9.780000000000001,
+   0.0,
+   17.78,
+   3.0
+  ],
+  "balcony_area": 33.6,
+  "roof_terrace_area": 67.1,
+  "cams": {
+   "front": {
+    "eye": [
+     9.4,
+     -16.0,
+     1.6
+    ],
+    "target": [
+     9.4,
+     6.0,
+     6.2
+    ],
+    "lens": 24,
+    "shift_y": 0.18
+   },
+   "corner": {
+    "eye": [
+     -7.5,
+     -13.0,
+     1.7
+    ],
+    "target": [
+     9.0,
+     6.0,
+     5.8
+    ],
+    "lens": 22,
+    "shift_y": 0.14
+   },
+   "rear": {
+    "eye": [
+     20.0,
+     33.0,
+     17.5
+    ],
+    "target": [
+     9.0,
+     16.5,
+     6.0
+    ],
+    "lens": 24,
+    "shift_y": 0.0
+   },
+   "aerial": {
+    "eye": [
+     -14.0,
+     -18.0,
+     26.0
+    ],
+    "target": [
+     9.0,
+     10.0,
+     4.0
+    ],
+    "lens": 30,
+    "shift_y": 0.0
+   }
+  }
+ },
+ "meshes": {
+  "L0__M_Alu_Black": 114,
+  "L0__M_Car": 12,
+  "L0__M_Charcoal": 54,
+  "L0__M_Concrete": 168,
+  "L0__M_Furniture": 6,
+  "L0__M_Glass": 18,
+  "L0__M_Light": 6,
+  "L0__M_Render_White": 120,
+  "L0__M_Stone_Grey": 6,
+  "L1__M_Alu_Black": 456,
+  "L1__M_Charcoal": 72,
+  "L1__M_Concrete": 138,
+  "L1__M_Furniture": 66,
+  "L1__M_Glass": 84,
+  "L1__M_Hedge": 166,
+  "L1__M_Interior": 6,
+  "L1__M_Light": 6,
+  "L1__M_Paving": 6,
+  "L1__M_Render_White": 498,
+  "L1__M_Sanitary": 60,
+  "L1__M_Stone_Grey": 6,
+  "L2__M_Alu_Black": 402,
+  "L2__M_Charcoal": 84,
+  "L2__M_Furniture": 48,
+  "L2__M_Glass": 96,
+  "L2__M_Hedge": 6,
+  "L2__M_Interior": 12,
+  "L2__M_Paving": 12,
+  "L2__M_Render_White": 474,
+  "L2__M_Sanitary": 48,
+  "Roof__M_Charcoal": 6,
+  "Roof__M_Concrete": 6,
+  "Roof__M_Interior": 6,
+  "Roof__M_Render_White": 30,
+  "Site__M_Alu_Black": 96,
+  "Site__M_Asphalt": 60,
+  "Site__M_Charcoal": 24,
+  "Site__M_Concrete": 204,
+  "Site__M_Earth": 30,
+  "Site__M_Glass": 6,
+  "Site__M_Grass": 54,
+  "Site__M_Hedge": 12,
+  "Site__M_Light": 6,
+  "Site__M_Paving": 36,
+  "Site__M_Render_White": 306,
+  "Site__M_Stone_Grey": 66,
+  "Trees__M_Hedge": 300,
+  "Trees__M_Tree": 7680,
+  "Trees__M_Trunk": 272
+ }
+}
