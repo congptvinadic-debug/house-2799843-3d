@@ -691,7 +691,7 @@ const ready = new Promise((resolve, reject) => {
     resize();
     resolve();
   }, (e) => {
-    if (e.total) { const p = Math.min(100, Math.round((e.loaded / e.total) * 100)); // gzip on Pages makes loaded > total $('#barFill').style.width = p + '%'; $('#loadPct').textContent = p + ' %'; }
+    if (e.total) { const p = Math.min(100, Math.round((e.loaded / e.total) * 100)); $('#barFill').style.width = p + '%'; $('#loadPct').textContent = p + ' %'; }
   }, (err) => { $('#loadPct').textContent = 'Could not load the model'; reject(err); });
 });
 await ready;
