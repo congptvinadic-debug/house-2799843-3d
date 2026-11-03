@@ -691,13 +691,14 @@ const ready = new Promise((resolve, reject) => {
     resize();
     resolve();
   }, (e) => {
-    if (e.total) { const p = Math.round((e.loaded / e.total) * 100); $('#barFill').style.width = p + '%'; $('#loadPct').textContent = p + ' %'; }
+    if (e.total) { const p = Math.min(100, Math.round((e.loaded / e.total) * 100)); // gzip on Pages makes loaded > total $('#barFill').style.width = p + '%'; $('#loadPct').textContent = p + ' %'; }
   }, (err) => { $('#loadPct').textContent = 'Could not load the model'; reject(err); });
 });
 await ready;
 syncSeg('view', 'front'); syncSeg('floors', 'all'); syncSeg('sun', '1');
 renderNow();
 requestAnimationFrame(() => $('#loader').classList.add('done'));
+setTimeout(() => $('#loader').classList.add('done'), 300); // rAF is paused in background tabs
 setTimeout(() => { driven = false; controls.update(); }, 0);
 
 function loop(now) {
